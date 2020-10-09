@@ -17,7 +17,7 @@
 
         <module>SpringBoot咨询发布系统实战项目源码/springboot-project-news-publish-system</module>
 
-        <module>SpringBoot入门案例源码/spring-boot-helloworld</module>
+        <module>SpringBoot入门案例源码/spring-boot-hello-world</module>
         <module>SpringBoot入门案例源码/spring-boot-file-upload</module>
         <module>SpringBoot入门案例源码/spring-boot-RESTful-api</module>
         <module>SpringBoot入门案例源码/spring-boot-static-resources</module>
